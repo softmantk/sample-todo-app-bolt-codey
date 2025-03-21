@@ -1,0 +1,16 @@
+feat(splash-screen): Add configurable splash screen with MyTODO branding
+
+- Implement SplashScreen component with configurable duration
+- Create custom SVG app icon with gradient design
+- Add smooth loading transition to main application
+- Update index.html with new app title and favicon
+- Integrate splash screen into main App component
+
+Changes:
+- Created SplashScreen.tsx with 2-second default loading
+- Added mytodo-icon.svg with blue-purple gradient
+- Updated App.tsx to manage splash screen state
+- Modified index.html for improved branding
+- Ensured responsive and visually appealing loading experience
+
+Resolves: Initial app loading and branding requirements
